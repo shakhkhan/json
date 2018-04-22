@@ -1,25 +1,23 @@
 {
-  "Name" : "My Pizza-Hub",
-  "homeTown" : "Pune-City",
-  "formed" : 2018,
-  "secretBase" : "Super tower",
-  "active" : true,
-  "types" : [
-    {
-      "name" : "veggie-supreme",
-      "ingredients" : "Onion, Capsicum, Capsicum, Black Olives, Sweet Corn, Tomato-ketchup" ,
-      "Price" : "$19",      
-    },
-    {
-      "name" : "Veg Exotica",
-      "ingredients" : "Red Capsicum, Green Capsicum, Baby Corn, Black Olives, Jalapenos" ,
-      "Price" : "$25",
-    },
-    {
-      "name" : "Paneer Soya Supreme",
-      "price" : "$100",
-      "ingredients" : "Spiced Paneer, Favourful Masala Soya Chunks, Capsicum, Onion, Red Paprika",
-      "price" : "$29",
-    }
-  ]
+	"Name": "My Pizza-Hub",
+	"homeTown": "Pune-City",
+	"formed": 2018,
+	"secretBase": "Super tower",
+	"active": true,
+	"types": [{
+			"name": "veggie-supreme",
+			"ingredients": "Onion, Capsicum, Capsicum, Black Olives, Sweet Corn, Tomato-ketchup",
+			"Price": "$19"
+		},
+		{
+			"name": "Veg Exotica",
+			"ingredients": "Red Capsicum, Green Capsicum, Baby Corn, Black Olives, Jalapenos",
+			"Price": "$25"
+		},
+		{
+			"name": "Paneer Soya Supreme",
+			"ingredients": "Spiced Paneer, Favourful Masala Soya Chunks, Capsicum, Onion, Red Paprika",
+			"price": "$29"
+		}
+	]
 }
